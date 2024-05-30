@@ -1,4 +1,4 @@
-# RVC-SageMaker
+# RVC WebUI in SageMaker Studio Lab
 SageMaker Studio Lab notebook for the RVC WebUI
 
 
