@@ -9,11 +9,8 @@ SageMaker Studio Lab notebook for the RVC WebUI
   </tr>
 </table>
 
-<p>&nbsp</p>
-
-<p>&nbsp</p>
-
-<p>&nbsp</p>
+How-to video:  
+<a href="https://youtu.be/p2QBRRpMGck"><img src="https://i3.ytimg.com/vi/p2QBRRpMGck/maxresdefault.jpg" width=300) /></a>
 
 Check out the original RVC project: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI  
 
